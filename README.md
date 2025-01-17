@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Njoud Almutairi</h1>
-<h3 align="center">📌 Bachelor's in Information System | Data Engineer & Data Analyst</h3>
+<h3 align="center">📌Interested in Data Engineer & Data Analyst </h3>
 
 - 📫 How to reach me **njoud.mut@gmail.com**
 
