@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Njoud Almutairi</h1>
-<h3 align="center">📌 Data Engineer & Analyst | Road Infrastructure AI Developer</h3>
+<h3 align="center">📌 Data Engineer & Analyst </h3>
 
 - 📫 **Reach Me:** njoud.mut@gmail.com
 - 🔒 **Project Access:** [Contact for Repository Access](#)
